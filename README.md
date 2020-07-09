@@ -3,4 +3,4 @@
 - 💻 I’m currently working on a logistics company with JavaScript and Rust
 - 📕 I’m currently learning [Rust](https://www.rust-lang.org/) and [Golang](https://golang.org/)
 - 📚 I am interested in the audio/video encoding, serverless and backend development
-- 📫 How to reach me: Telegram @h7F23kJt
+- 📫 How to reach me: [Telegram](https://t.me/h7F23kJt)
