@@ -6,4 +6,4 @@
 - 📫 How to reach me: [Telegram](https://t.me/h7F23kJt)
 
 ## My GitHub stats
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=darkskygit&show_icons=true)
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=darkskygit&show_icons=true)](https://github.com/darkskygit)
