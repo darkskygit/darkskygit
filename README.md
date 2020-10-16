@@ -7,3 +7,5 @@
 
 ## My GitHub stats
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=darkskygit&show_icons=true)](https://github.com/darkskygit)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmjoy&layout=compact)](https://github.com/darkskygit)
