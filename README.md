@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I’m currently working on a cyber security company with TypeScript
+- 💻 I’m currently working on a productivity software company with TypeScript
 - 📕 I’m currently using [TypeScript](https://www.typescriptlang.org/), [Rust](https://www.rust-lang.org/) and [Golang](https://golang.org/) in my private repos
 - 📚 I am interested in the audio/video encoding, serverless and backend development
 - 📫 How to reach me: [Telegram](https://t.me/h7F23kJt)
