@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-- 💻 I’m currently working on a productivity software company with TypeScript
-- 📕 I’m currently using [TypeScript](https://www.typescriptlang.org/), [Rust](https://www.rust-lang.org/) and [Golang](https://golang.org/) in my private repos
+- 💻 I’m currently working on a productivity software company with [TypeScript] and [Rust]
+- 📕 I’m currently using [TypeScript], [Rust] and [Golang] in my private repos
 - 📚 I am interested in the audio/video encoding, serverless and backend development
-- 📫 How to reach me: [Telegram](https://t.me/h7F23kJt)
+- 📫 How to reach me: [Telegram]
 
 ## My GitHub stats
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=darkskygit&show_icons=true)](https://github.com/darkskygit) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkskygit&layout=compact)](https://github.com/darkskygit)
+
+[Golang]: https://golang.org/
+[Rust]: https://www.rust-lang.org/
+[Telegram]: https://t.me/h7F23kJt
+[TypeScript]: https://www.typescriptlang.org/
