@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![wakatime](https://darksky.eu.org/v1/proxy/wakatime.svg)
+
 - 💻 I’m currently working on a productivity software company with [TypeScript] and [Rust]
 - 📕 I’m currently using [TypeScript], [Rust] and [Golang] in my private repos
 - 📚 I am interested in the audio/video encoding, serverless and backend development
